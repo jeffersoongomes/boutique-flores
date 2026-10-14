@@ -1,0 +1,12 @@
+:root {
+  --primary-color: #a75d44;     /* Marrom terroso suave */
+  --secondary-color: #f7d9c4;   /* Bege claro */
+  --accent-color: #e29b84;      /* Coral suave */
+  --text-color: #3d2c29;        /* Marrom escuro para texto */
+  --bg-color: #faf5f0;          /* Fundo suave remetendo a flores */
+  --card-bg: #fff8f0;           /* Fundo dos cartões */
+  --card-shadow: rgba(170, 130, 110, 0.2);
+  --font-family-base: 'Georgia', serif;
+  --spacing-small: 1rem;
+  --spacing-base: 1.6rem;
+}
